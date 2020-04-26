@@ -2,7 +2,8 @@
 PRODUCT_PACKAGES += \
     PrimaryColorCarbonBlackOverlay \
     PrimaryColorCarbonOceanOverlay \
-    PrimaryColorCarbonNatureOverlay
+    PrimaryColorCarbonNatureOverlay \
+    PrimaryColorBastilleDarkerOverlay
 
 # Accents
 PRODUCT_PACKAGES += \
